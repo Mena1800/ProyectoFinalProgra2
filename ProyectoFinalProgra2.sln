@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C65D5636-B828-43D0-963A-4F98BCFCE7CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{46ADD108-88CC-4D5B-8E73-45C338E4B88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XperTek_ACME", "XperTek_ACME\XperTek_ACME.csproj", "{238CFC61-5565-476C-98D2-A5C97DA36FB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C65D5636-B828-43D0-963A-4F98BCFCE7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C65D5636-B828-43D0-963A-4F98BCFCE7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C65D5636-B828-43D0-963A-4F98BCFCE7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ADD108-88CC-4D5B-8E73-45C338E4B88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ADD108-88CC-4D5B-8E73-45C338E4B88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ADD108-88CC-4D5B-8E73-45C338E4B88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ADD108-88CC-4D5B-8E73-45C338E4B88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238CFC61-5565-476C-98D2-A5C97DA36FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238CFC61-5565-476C-98D2-A5C97DA36FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238CFC61-5565-476C-98D2-A5C97DA36FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238CFC61-5565-476C-98D2-A5C97DA36FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
